@@ -10,3 +10,16 @@ Skop Lokasi Wajib ( Minimum):-
 8. Dewan
 9. Pondok Guard
 10. Parking Pelajar / staf
+
+📊 Kriteria Penilaian (Cadangan) 
+• Ketepatan lokasi – 30% 
+• Kelengkapan maklumat – 25% 
+• Kualiti peta & visual – 20% 
+• Dokumentasi laporan – 15% 
+• Kerjasama & pembentangan – 10% 
+
+🌟 Nilai Tambah (Bonus) 
+• Label mesra OKU 
+• Route guidance (contoh: dari pintu utama ke JTMK) 
+• Color-coding lokasi 
+• QR Code peta PUO
